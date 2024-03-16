@@ -11,12 +11,12 @@ I'm Priyanka, a Techie from <b>Uttar Pradesh, India</b>.
 
   <img alt="C++" src="https://img.shields.io/badge/-C++-4382b3?style=flat-square&logo=c%2B%2B&logoColor=white" />
   <img alt="JavaScript" src="https://img.shields.io/badge/Javascript%20-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E&logoColor=white" />
-  <img alt="HTML/CSS" src="https://img.shields.io/badge/Python%20-%2314354C.svg?&style=flat-square&logo=python&logoColor=white"/> 
+  <img alt="HTML/CSS" src="https://img.shields.io/badge/html/css%20-%2314354C.svg?&style=flat-square&logo=html&logoColor=white"/> 
   <br>
-  <img alt="Redux" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
+  <img alt="Redux" src="https://img.shields.io/badge/-Redux-43853d?style=flat-square&logo=Redux&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
  
-<!--   <img alt="ReactNative" src=" https://img.shields.io/badge/-react--native-yellow.svg?style=flat-square&logo=express&logoColor=white" /> -->
+
 
   <br>
  
@@ -25,9 +25,7 @@ I'm Priyanka, a Techie from <b>Uttar Pradesh, India</b>.
   
 </p>
 
----
 
-<!-- ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=SaMs-Hub&show_icons=true&hide_border=tue) -->
 
 
 ---
@@ -46,4 +44,4 @@ I'm Priyanka, a Techie from <b>Uttar Pradesh, India</b>.
 </a> 
 
 
-<a href="https://linkedin.com/in/shafi-khan-/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>
+<a href="https://www.linkedin.com/in/priyanka-yadav-0b0a55186/" target="_blank"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2199/64/social_media_isometric_14-linkedin-512.png" height="80px" width="80px" alt="Twitter" align="center"></a>
